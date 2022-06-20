@@ -25,3 +25,9 @@ print("Hallo World\n\t ", 1, "Hallo World", True, [1, 2, 3])
 #Input for user
 name = input("Enter your name: ")
 print("Hello", name)
+
+#Input for user and convert to int
+age = int(input("Enter your age: "))
+
+#Print age
+print("Your age is", age)
